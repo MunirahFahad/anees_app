@@ -15,7 +15,7 @@
 ## التقنيات المستخدمة
 - Flutter (Dart)
 - REST APIs
-- nuha-llm
+- nuha-2.0
 - elm-tts
 - elm-asr
 
