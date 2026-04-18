@@ -5,7 +5,7 @@ import '../models/place_model.dart';
 
 class ApiService {
   static const String _baseUrl = 'https://elmodels.ngrok.app';
-  static const String _apiKey  = 'sk-w7u3JSrWgudiRE5Ew1K11Q';
+  static const String _apiKey  = 'Your LLM API key here';
   static const String _model   = 'nuha-2.0';
 
   // ── Load route from JSON ──────────────────────────────────────────────────
