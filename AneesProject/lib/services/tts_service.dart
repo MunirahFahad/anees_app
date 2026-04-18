@@ -8,7 +8,7 @@ class TtsService {
   // ─── CONFIGURATION ──────────────────────────────────────────────────────
   // Replace the value below with your real TTS API key before running.
   static const String _baseUrl = 'https://elmodels.ngrok.app';
-  static const String _apiKey  = 'YOUR_TTS_KEY_HERE';
+  static const String _apiKey  = 'sk-XEDbwguZksB4_R88PiEpAw';
 
   final AudioPlayer _player = AudioPlayer();
   bool isPlaying = false;
