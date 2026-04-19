@@ -41416,7 +41416,7 @@ break A}return"\u0623\u0646\u062a \u0631\u0627\u0648\u064d \u0635\u0648\u062a\u0
 rs(a){return this.a3C(a)},
 a3C(a){var s=0,r=A.v(t.N),q,p,o,n,m
 var $async$rs=A.w(function(b,c){if(b===1)return A.r(c,r)
-for(;;)switch(s){case 0:p=A.h4("https://elmodels.ngrok.app/v1/chat/completions")
+for(;;)switch(s){case 0:p=A.h4("https://corsproxy.io/?url=https://elmodels.ngrok.app/v1/chat/completions")
 o=t.N
 n=A.aj(["Authorization","Bearer sk-jD2b4cg_1GxTK1FwIqqkrw","Content-Type","application/json"],o,o)
 s=3
@@ -41589,7 +41589,7 @@ var $async$kw=A.w(function(b,c){if(b===1)return A.r(c,r)
 for(;;)switch(s){case 0:if(B.c.jv(a).length===0){s=1
 break}s=3
 return A.m(p.pb(),$async$kw)
-case 3:o=A.h4("https://elmodels.ngrok.app/v1/audio/speech")
+case 3:o=A.h4("https://corsproxy.io/?url=https://elmodels.ngrok.app/v1/audio/speech")
 n=t.N
 m=A.aj(["Authorization","Bearer sk-T5fkAFa5Bx6so9cLNw0j2A","Content-Type","application/json"],n,n)
 s=4
